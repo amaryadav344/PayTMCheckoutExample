@@ -1,4 +1,4 @@
-# PayTMCheckoutExample
+# PayTM Checkout Example
 Paytm Payment gateway example android ecommerse application
 
 ![](https://www.loopwiki.com/wp-content/uploads/2020/11/Login-screen-min.jpg)  |  ![](https://www.loopwiki.com/wp-content/uploads/2020/11/Fashion-Shop-Home-min.jpg)
