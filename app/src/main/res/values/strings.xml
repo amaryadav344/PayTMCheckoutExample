@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RazorPayChekoutExample</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ruppi_symbol">₹</string>
+    <string name="product_added">Product Added to Cart</string>
+    <string name="product_removed">Product Removed from Cart</string>
+    <string name="Merchant_ID">Enter Merchant ID Here</string>
+</resources>
